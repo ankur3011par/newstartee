@@ -2,12 +2,10 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://plugintheme.net",
   "map-permalink":[
-    "page",
-    "content",
-    "cara",
-    "host"
+       "content"
+    
   ],
   "name-folder-sitemap":"sitemap",
   "element-remove":[
